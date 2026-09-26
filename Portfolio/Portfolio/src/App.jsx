@@ -7,7 +7,7 @@ import postCrashAnnalysis from './assets/projects/PostCrashAnnalysis.png';
 import PromotionalMarketingGameImg from './assets/projects/promotionMarketingGame.png';
 import parkinsonsImg from './assets/projects/parkinsonsImg.png';
 
-import CosmicChaoseBanner from './assets/CosmicChaose/banner.png';
+import CosmicChaoseBanner from './assets/CosmicChaose/_banner.png';
 import cosmicChaoseShot1 from './assets/CosmicChaose/shot1.png';
 import cosmicChaoseShot2 from './assets/CosmicChaose/shot2.png';
 import cosmicChaoseShot3 from './assets/CosmicChaose/shot3.png';
