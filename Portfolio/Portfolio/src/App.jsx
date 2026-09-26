@@ -7,7 +7,7 @@ import postCrashAnnalysis from './assets/projects/PostCrashAnnalysis.png';
 import PromotionalMarketingGameImg from './assets/projects/promotionMarketingGame.png';
 import parkinsonsImg from './assets/projects/parkinsonsImg.png';
 
-import mechBanner from './assets/CosmicChaose/banner.png';
+import CosmicChaoseBanner from './assets/CosmicChaose/banner.png';
 import cosmicChaoseShot1 from './assets/CosmicChaose/shot1.png';
 import cosmicChaoseShot2 from './assets/CosmicChaose/shot2.png';
 import cosmicChaoseShot3 from './assets/CosmicChaose/shot3.png';
@@ -266,7 +266,7 @@ I enjoy working on technically challenging applications where real-time 3D, inte
       <div className="relative">
 
         <img
-          src={mechBanner}
+          src={CosmicChaoseBanner}
           alt="Mechanaconda"
           className="h-[500px] w-full object-cover"
         />
@@ -292,7 +292,7 @@ I enjoy working on technically challenging applications where real-time 3D, inte
           {/* <div className="mt-16 flex gap-4">
 
             <a
-              href="https://play.google.com/store/apps/details?id=com.Nforge.Mechanaconda"
+              href="https://play.google.com/store/apps/details?id=com.Nforge"
               target="_blank"
               className="rounded-2xl bg-cyan-400 px-6 py-3 font-semibold text-black transition hover:scale-105"
             >
@@ -455,7 +455,7 @@ I enjoy working on technically challenging applications where real-time 3D, inte
       {/* <div className="mt-12 flex flex-wrap gap-4">
 
         <a
-          href="https://play.google.com/store/apps/details?id=com.Nforge.Mechanaconda&hl=en_IN"
+          href="https://play.google.com/store/apps/details?id=com.Nforge.&hl=en_IN"
           target="_blank"
           className="rounded-2xl bg-cyan-400 px-6 py-4 font-bold text-black transition hover:scale-105"
         >
@@ -879,7 +879,7 @@ I enjoy working on technically challenging applications where real-time 3D, inte
 
       {/* Portfolio */}
       {/* <a
-        href="https://play.google.com/store/apps/details?id=com.Nforge.Mechanaconda&hl=en_IN"
+        href="https://play.google.com/store/apps/details?id=com.Nforge.&hl=en_IN"
         target="_blank"
         className="rounded-2xl border border-white/10 bg-white/5 px-6 py-4 font-bold backdrop-blur-xl transition hover:border-cyan-400"
       >
